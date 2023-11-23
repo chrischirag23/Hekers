@@ -94,7 +94,7 @@
   <div class="centered-text">
     <h1>Let's Begin</h1> 
     <p>Choose your language or click on next button</p>
-    <button class="styled-button english"><a href="http://127.0.0.1:5500/eng.html">English</a></button>
+    <button class="styled-button english"><a href="http://127.0.0.1:5500/english.html">English</a></button>
     <button class="styled-button Hindi"><a href="http://127.0.0.1:5500/hindi.html">हिंदी</a></button><br>
   </div>
 </body>
