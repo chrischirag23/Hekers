@@ -1,0 +1,146 @@
+.andy{
+        font-size:24px;
+        margin-top:15px;
+        color:#64ae20;
+        font-weight:bold;
+    }
+    .ome {
+        margin-top: 40px;
+        margin-left: -70px; 
+        font-size: 35px;
+        color: #e5a402;
+        font-weight: bold;
+    }
+    .repairs {
+        font-size: 35px;
+        margin-left: 10px;
+        margin-top: 40px;
+        color: #64ae20;
+        font-weight: bold;
+    }
+    .custom-image {
+        width: 500px;
+        height: auto; 
+        margin-top: 1px;
+        margin-left:0px ; 
+        }
+        .desc {
+        display: flex;
+        position: relative;
+        top: -550px;
+        left: 600px;
+        font-family: Arial, sans-serif;
+    }
+    .Solution, .The, .that, .you, .deserve {
+        position: relative;
+    }
+    .Solution {
+        font-size: 60px;
+        margin-top: 60px;
+        color: #c5b11a;
+        font-weight: bold;
+        margin-left:10px;
+        }
+    .The {
+        margin-left: 60px;
+        font-size: 70px;
+        font-weight: bold;
+        color: #5e5d5d;
+        margin-top:50px;
+    }
+    .that{ 
+        color: #5e5d5d;
+        font-weight: bold;
+        font-size: 70px;
+        margin-top: 120px;
+        margin-left: -365px;
+        font-family: Arial, sans-serif;
+    }
+    .you{
+        color: #5e5d5d;
+        font-weight: bold;
+        font-size: 70px;
+        margin-left:15px;
+        margin-top:119px;
+         font-family: Arial, sans-serif;
+    }
+    .deserve{
+        color: #c5b11a;
+        font-weight: bold;
+        font-size:60px ;
+        margin-top: 130px;
+        margin-left: 09px;
+        font-family: Arial, sans-serif;
+    }
+     .styled-button {
+                position: relative;
+                top:10px;
+                right:-900px;
+                display: inline-block;
+                padding: 5px 10px;
+                border: none;
+                border-radius: 510px;
+                margin-right: 10px;
+                cursor: pointer;
+                text-align: center;
+            }
+
+
+            .lets-repair {
+                background: #64ae20;
+                color: #dbf3c1ca;
+                font-weight: bold;
+                font-family: Arial, sans-serif;
+                font-size: 20px;
+            }
+            .styled-paragraph {
+                font-size: 30px;
+                margin-top:-550px;
+                margin-left:665px;
+                font-family: 'Times New Roman', Times, serifz;
+                     
+            }
+            .about {        
+                background-color: #dbf3c1ca;        
+                color:#64ae20;
+                font-weight: bold;
+                font-family: Arial, sans-serif;
+                font-size: 20px;
+                
+            }
+
+
+            .services {
+        
+       
+                background-color: #dbf3c1ca;        
+                color:#64ae20;
+                font-weight: bold;
+                font-family: Arial, sans-serif;
+                font-size: 20px;
+            }
+
+
+            .support{
+      
+                background-color: #dbf3c1ca;        
+                color:#64ae20;
+                font-weight: bold;
+                font-family: Arial, sans-serif;
+                font-size: 20px;
+            }
+            .contact_us{
+        
+                background-color: #dbf3c1ca;        
+                color:#64ae20;
+                font-weight: bold;
+                font-family: Arial, sans-serif;
+                font-size: 20px;
+            }
+            .second-para{
+                font-size: 30px;
+                margin-top:50px;
+                margin-left:665px;
+                font-family:'Times New Roman', Times, serif;
+            }                   
+        </style>
