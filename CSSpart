@@ -1,0 +1,13 @@
+.header {
+    font-size: 40px; 
+    color: #85A124;
+    display: inline-block; 
+    position: relative; 
+}
+.header::before {
+    content: 'H'; 
+    position: absolute; 
+    top: 0;
+    left: 0;
+    opacity: 0.5;     
+}
