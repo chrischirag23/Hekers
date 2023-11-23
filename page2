@@ -182,7 +182,7 @@
         <div class="repairs">REPAIRS</div>
         </div>
         <button class="bulb">
-            <a href="http://127.0.0.1:5500/Tutorial%20main.html">Bulb fixing</a>
+            <a href="http://127.0.0.1:5500/page3.html">Bulb fixing</a>
         </button>
 
         <img class="custom-image" src="img/logo2.png" alt="logo">
