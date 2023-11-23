@@ -7,7 +7,7 @@
     <style>
         .centered-text {
             text-align: center;
-            line-height: 5px; /* Center the text vertically (relative to the viewport height) */
+            line-height: 5px; 
             font-family: arial, sans-serif;
             font-size:xx-large;
         }
@@ -56,7 +56,7 @@
             }
         .ome {
                 margin-top: 40px;
-                margin-left: -70px; /* Adjusted margin for the 'ome' element */
+                margin-left: -70px; 
                 font-size: 35px;
                 color: #e5a402;
                 font-weight: bold;
