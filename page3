@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Handy Home Repairs</title>
+    <style>
+        .centered-text {
+            text-align: center;
+            line-height: 5px; /* Center the text vertically (relative to the viewport height) */
+            font-family: arial, sans-serif;
+            font-size:xx-large;
+        }
+
+        .english{        
+            background-color: #dbf3c1ca;        
+            color:#64ae20;
+            font-weight: bold;
+            font-family: Arial, sans-serif;
+            font-size: 30px;
+            border-radius: 910px;
+            margin-left: -30px;
+            margin-top: 50px;   
+        }
+        .Hindi{        
+            background-color: #dbf3c1ca;        
+            color:#64ae20;
+            font-weight: bold;
+            font-family: Arial, sans-serif;
+            font-size: 30px;
+            border-radius: 510px;
+            margin-left: 30px;
+            margin-top: 50px;
+        }
+        .logo {
+                display: flex;
+                position: relative;
+                top: 3px;
+                left: -20px;
+                font-family: Arial, sans-serif;
+            }
+        .h, .andy, .ome, .repairs {
+                position: relative;
+            }
+        .h {
+                margin-left: 20px;
+                font-size: 80px;
+                color: #64ae20;
+                font-weight: bolder;
+            }
+        .andy {
+                font-size: 24px;
+                margin-top: 15px;
+                color: #64ae20;
+                font-weight: bold;
+            }
+        .ome {
+                margin-top: 40px;
+                margin-left: -70px; /* Adjusted margin for the 'ome' element */
+                font-size: 35px;
+                color: #e5a402;
+                font-weight: bold;
+            }
+        .repairs {
+                font-size: 35px;
+                margin-left: 10px;
+                margin-top: 40px;
+                color: #64ae20;
+                font-weight: bold;
+            }
+        .Lets{
+            font-size: 60px;
+            margin-top: 60px;
+            color: #c5b11a;
+            font-weight: bold;
+            margin-left:10px;                
+        }
+        .Begin{
+            font-size: 60px;
+            margin-top: 60px;
+            color: #c5b11a;
+            font-weight: bold;
+            margin-left:10px;
+        }
+    </style>
+</head>
+<body style="background-color: #dbf3c1ca;">
+    <div class="logo">
+        <div class="h">H</div>
+        <div class="andy">ANDY</div>
+        <div class="ome">OME</div>
+        <div class="repairs">REPAIRS</div>
+        </div>      
+  <div class="centered-text">
+    <h1>Let's Begin</h1> 
+    <p>Choose your language or click on next button</p>
+    <button class="styled-button english"><a href="http://127.0.0.1:5500/eng.html">English</a></button>
+    <button class="styled-button Hindi"><a href="http://127.0.0.1:5500/hindi.html">हिंदी</a></button><br>
+  </div>
+</body>
+</html>
